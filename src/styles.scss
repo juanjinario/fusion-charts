@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "../node_modules/angular-calendar/css/angular-calendar.css";
+g[class^='raphael-group-'][class$='-creditgroup'] text {
+    fill: white !important;
+}
+
+.content-wrapper {
+    padding: 20px 30px;
+}
+
+.row-container {
+    padding: 2% 2% 0;
+}
